@@ -31,3 +31,8 @@ Zoom meeting url: https://kyutech-ac-jp.zoom.us/j/84610950922?pwd=U2l5Tlh6RHVtQU
 - [Kyutech Video "Hello! KYUTECH"](https://www.kyutech.ac.jp/information/video_hellokyutech_e.html)
 
 ## Day2
+
+
+# Pins
+
+![Rboard pin](rboard_pin.png)
