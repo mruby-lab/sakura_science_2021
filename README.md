@@ -32,6 +32,8 @@ Zoom meeting url: https://kyutech-ac-jp.zoom.us/j/84610950922?pwd=U2l5Tlh6RHVtQU
 
 ## Day2
 
+- [Slide 1 (PDF)](https://github.com/mruby-lab/sakura_science_2021/blob/main/IoT_Workshop_Day2-1.pdf)
+- [Slide 2 (PDF)](https://github.com/mruby-lab/sakura_science_2021/blob/main/IoT_Workshop_Day2-2.pdf)
 
 # Pins
 
